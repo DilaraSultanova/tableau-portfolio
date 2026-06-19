@@ -2,6 +2,10 @@
 
 Collection of Tableau dashboards focused on data visualization and business insights.
 
+## Goal
+
+Use Tableau to transform data into interactive dashboards that support decision-making and communicate insights effectively.
+
 ## Skills
 
 - Tableau
@@ -9,6 +13,7 @@ Collection of Tableau dashboards focused on data visualization and business insi
 - Dashboard Design
 - Reporting
 - Business Intelligence
+- Data Storytelling
 
 ## Portfolio Projects
 
@@ -16,13 +21,32 @@ Collection of Tableau dashboards focused on data visualization and business insi
 Track revenue, product performance, and sales trends.
 
 ### Customer Analytics Dashboard
-Visualize customer behavior and segmentation.
+Visualize customer behavior, segmentation, and purchasing patterns.
 
 ### KPI Dashboard
 Monitor key business metrics and performance indicators.
 
+### Workforce Analytics Dashboard
+Analyze workforce participation, demographics, and program outcomes.
+
+## Dashboard Features
+
+- Interactive Filters
+- KPI Tracking
+- Trend Analysis
+- Data Exploration
+- Executive Reporting
+
 ## Future Projects
 
-- Workforce Analytics Dashboard
 - Financial Dashboard
 - Marketing Performance Dashboard
+- Student Performance Dashboard
+- Business Operations Dashboard
+
+## Tools
+
+- Tableau
+- Excel
+- CSV Data Sources
+- Business Analytics
